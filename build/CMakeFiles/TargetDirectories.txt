@@ -1,0 +1,5 @@
+/home/slime3251/nodejs/Project/hookStream/iohook/build/CMakeFiles/rebuild_cache.dir
+/home/slime3251/nodejs/Project/hookStream/iohook/build/CMakeFiles/iohook.dir
+/home/slime3251/nodejs/Project/hookStream/iohook/build/CMakeFiles/edit_cache.dir
+/home/slime3251/nodejs/Project/hookStream/iohook/build/CMakeFiles/uiohook.dir
+/home/slime3251/nodejs/Project/hookStream/iohook/build/CMakeFiles/prepare_iuhook.dir
