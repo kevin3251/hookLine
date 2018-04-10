@@ -1,6 +1,6 @@
 {
   "name": "hookline",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "hookline based on iohook ",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "nan": "^2.10.0"
   },
   "binary": {
-    "module_name": "iohook",
+    "module_name": "hookline",
     "module_path": "./build/Release/",
     "remote_path": "./download/{version}/",
     "package_name": "{module_name}-v{version}-{node_abi}-{platform}-{arch}.zip",
