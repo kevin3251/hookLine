@@ -1,7 +1,7 @@
 {
-  "name": "hookLine",
+  "name": "hookline",
   "version": "0.1.0",
-  "description": "hookLine based on iohook ",
+  "description": "hookline based on iohook ",
   "main": "index.js",
   "scripts": {
     "install": "node-pre-gyp install --fallback-to-build=false",
@@ -30,7 +30,7 @@
 	  "host" : "https://github.com/kevin3251/hookLine/releases"
   },	
   "keywords": [
-    "hookLine"
+    "hookline"
   ],
   "author": "Kevin Chueh",
   "license": "MIT"
