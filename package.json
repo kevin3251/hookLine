@@ -20,7 +20,7 @@
   "devDependencies": {
     "archiver": "^2.1.1",
     "cmake-js": "^3.6.0",
-    "nan": "^2.10.0",
+    "nan": "^2.10.0"
   },
   "binary" : {
 	  "module_name" : "iohook" ,
