@@ -17,7 +17,7 @@ npm install hookline --save
 
 ```javascript
 'use strict';
-const hookLine = require('hookLine');
+const hookLine = require('hookline');
 hookLine.on('data', data => console.log(data));
 
 hookLine.start();
