@@ -1,4 +1,4 @@
-# hookLine
+# hookline
 
 ## About
 
@@ -10,7 +10,7 @@ Node.js global keyboard event listener based on iohook to read a line.
 
 ```bash
 # TODO
-npm install hookLine --save 
+npm install hookline --save 
 ```
 
 ## Example
