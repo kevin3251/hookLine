@@ -37,4 +37,4 @@ If you want to manually compile it, follow the instructions below.
 
 ### Windows  
 - Install: msys2 with autotools, pkg-config, libtool, gcc, clang, glib, C++ Build Tools, cmake  
-- `npm run build`# hookLine
+- `npm run build`
