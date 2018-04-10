@@ -1,6 +1,6 @@
 {
   "name": "hookline",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "hookline based on iohook ",
   "main": "index.js",
   "scripts": {
