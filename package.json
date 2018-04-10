@@ -1,6 +1,6 @@
 {
   "name": "hookline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "hookline based on iohook ",
   "main": "index.js",
   "scripts": {
@@ -15,20 +15,20 @@
     "node-abi": "^2.1.2",
     "segfault-handler": "^1.0.0",
     "split": "^1.0.1",
-	"node-pre-gyp" :  "^0.9.0"
+    "node-pre-gyp": "^0.9.0"
   },
   "devDependencies": {
     "archiver": "^2.1.1",
     "cmake-js": "^3.6.0",
     "nan": "^2.10.0"
   },
-  "binary" : {
-	  "module_name" : "iohook" ,
-	  "module_path" : "./build/Release/",
-	  "remote_path" : "./download/{version}/",
-	  "package_name" : "{module_name}-v{version}-{node_abi}-{platform}-{arch}.zip",
-	  "host" : "https://github.com/kevin3251/hookLine/releases"
-  },	
+  "binary": {
+    "module_name": "iohook",
+    "module_path": "./build/Release/",
+    "remote_path": "./download/{version}/",
+    "package_name": "{module_name}-v{version}-{node_abi}-{platform}-{arch}.zip",
+    "host": "https://github.com/kevin3251/hookLine/releases"
+  },
   "keywords": [
     "hookline"
   ],
